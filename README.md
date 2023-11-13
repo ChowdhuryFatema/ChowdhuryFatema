@@ -1,5 +1,4 @@
-
-![Frontend Web Developer](https://i.ibb.co/60wqsD0/385522758-336464939032215-8628741610959358844-n.jpg)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/mb07H2g/banner.jpg)
 
 ### Hi there 👋, I'm Fatema Chowdhury
 #### Frontend Web Developer
