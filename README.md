@@ -8,11 +8,11 @@ I am a professional frontend web developer with more than two years of experienc
 
 Skills: HTML5 / CSS3 / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL UI / NODE JS / EXPRESS JS / MONGODB / FIREBASE
 
-- 🔭 I’m currently working on WebExtent 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: fatemachowdhury318@gmail.com 
+✔ 🔭 I’m currently working on WebExtent 
+✔ 🌱 I’m currently learning React Native 
+✔ 👯 I’m looking to collaborate on Github 
+✔ 💬 Ask me about Web Development 
+✔ 📫 How to reach me: fatemachowdhury318@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChowdhuryFatema)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/FatemaChowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FatemaChowdhury)  
