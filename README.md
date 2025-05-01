@@ -9,9 +9,8 @@ Currently, I am working on diverse projects that utilize the power of React to b
 
 My goal is to continuously enhance my skills in front-end development and explore new technologies and frameworks. I aim to contribute to innovative projects that push the boundaries of web development, and I am eager to collaborate with other professionals to achieve outstanding results.
 
-Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | BOOTSTRAP | JAVASCRIPT | REACT JS | FIREBASE | NODE JS | EXPRESS JS | MONGODB | FIGMA
+Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | BOOTSTRAP | JAVASCRIPT | REACT JS | NEXT JS | REDUX TOOLKIT | FIREBASE | NODE JS | EXPRESS JS | MONGODB | FIGMA
 
-✔ 🌱 I’m currently learning Next JS <br>
 ✔ 👯 I’m looking to collaborate on Github <br>
 ✔ 💬 Ask me about Web Development <br>
 ✔ 📫 How to reach me: fatemachowdhury318@gmail.com <be>
